@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Khaoula BHAOU
+Khaoula BHAOU
 Web developer
 
 Show Contacts
